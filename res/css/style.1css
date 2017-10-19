@@ -1,0 +1,139 @@
+
+
+
+.departments{
+	background :  url(b4.jpg) no-repeat center fixed;	
+}
+
+
+
+.resister{
+	background :  url(b5.jpg) no-repeat center fixed;			
+}
+
+
+
+.wrapper{
+	margin-left: 18%;
+    margin-right: 18%;
+    
+}
+
+
+.header{
+
+	background-color: rgba(230, 245, 230, 0.47);
+	text-align: center;
+    font-size: 180%;
+}
+
+
+
+.myForm{
+
+}
+
+
+.myForm input{
+	font-size: 1.6em;
+}
+
+.myForm h4{
+	font-size: 1.2em;
+}
+
+.myForm select{
+	font-size: 1.6em;
+}
+
+.myForm option{
+	font-size: 1.6em;
+}
+
+
+
+
+
+.news-panel{
+	margin-top: 10%;
+
+}
+
+.
+
+
+
+
+/*department panel*/
+
+
+
+.header2{
+	text-align: center;
+    background-color: rgba(46, 76, 111, 0.33);
+    font-size: 136%;
+}
+
+.header2 h1{
+	color: black;
+}
+
+.body-panel{
+
+
+}
+
+.room{
+	text-align: center;
+    background-color: rgba(0, 223, 255, 0.29);
+}
+
+.room h3{
+	font-size: 196%;
+    background: rgba(187, 64, 143, 0.34);
+}
+
+.room img{
+	width: 38%;
+}
+.departments img{
+	width: 38%;
+}
+
+
+
+/*room details*/
+
+.roomDet{
+	text-align: center;
+}
+
+.header3{
+	color: black;
+}
+
+.roomDet h3{
+	background: rgba(12, 21, 21, 0.56);
+    color: black;
+    font-size: 2.2em;
+    text-align: center;
+}
+
+.roomDet img{
+	width: 60&;
+
+}
+
+.roomDet p{
+	background: rgba(12, 21, 21, 0.56);
+    color: white;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+
+.resister-form form input{
+	padding: 2%;
+}
+.resister img{width: 2%;
+}

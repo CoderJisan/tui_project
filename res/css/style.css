@@ -1,0 +1,61 @@
+
+.header-panel {
+    
+}
+
+.logo-panel {
+/*    position: absolute;*/
+    width: 325px;
+    margin: 0 auto;
+    display: none;
+}
+
+.logo {
+    
+}
+
+.logo h1{
+    font-family: 'Anton', sans-serif;
+    color: #fff;
+    font-size: 2em;
+    opacity: .1;
+    text-align: center;
+    letter-spacing: 12px;
+    font-weight: 900;
+}
+
+.menus {
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+    opacity: 0;
+}
+
+.menus a{
+    padding: 15px;
+    font-size: 1.7em;
+    color: white;
+    font-weight: 900;
+    font-family: sans-serif;
+    background-color: rgba(255, 0, 86, 0.72);
+    text-decoration: none;
+    
+    -webkit-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.menus a:hover{
+    padding: 15px;
+    font-size: 1.7em;
+    color: black;
+    font-weight: 900;
+    font-family: sans-serif;
+    background-color: rgba(255, 0, 86, 0.94);
+    text-decoration: none;
+    
+    -webkit-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
